@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://p1.hiclipart.com/preview/501/968/999/plex-html5-icon-png-icon.jpg" width="50" title="html"/>
-  <img src="https://icon2.cleanpng.com/20180510/biw/kisspng-html-css-design-and-build-web-sites-web-develop-5af50c33acf486.1786193415260088837084.jpg" width="50" title="css"/>
+  <img src="https://apexensino.com.br/wp-content/uploads/2017/11/css.png" width="50" title="css"/>
 </p>
 
 ---
@@ -48,14 +48,6 @@
 - 🎨 Apaixonado por design **clean, funcional e moderno** (estilo Apple Liquid Glass).  
 - 🤝 Acredito que **tecnologia é colaboração**.  
 - 🕹️ Nas horas vagas: automações, música e futebol.
-
----
-
-### 🛠️ Estatísticas GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedorgz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00d4ff" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedorgz&theme=tokyonight&hide_border=true&background=0D1117&fire=00d4ff" />
-</p>
 
 ---
 

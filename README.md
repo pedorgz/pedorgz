@@ -11,7 +11,8 @@
 💡 Futuro Dev apaixonado por tecnologia, automação e soluções criativas.  
 🎯 Foco em **automação** e **Front end**
 🌎 Local: São José dos campos, São Paulo, Brasil  
-📧 Contato: **servicospedro03@gmail.com**  
+📧 Contato: **servicospedro03@gmail.com**
+📱 Telefone: 12988433012
 💼 Disponível para novos projetos e colaborações!
 
 ---
@@ -19,7 +20,6 @@
 ### ⚙️ Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://p1.hiclipart.com/preview/501/968/999/plex-html5-icon-png-icon.jpg" width="50" title="html"/>
   <img src="https://apexensino.com.br/wp-content/uploads/2017/11/css.png" width="50" title="css"/>
